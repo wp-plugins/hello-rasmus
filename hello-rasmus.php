@@ -39,7 +39,7 @@ PHP is about as exciting as your toothbrush. You use it every day, it does the j
 I was really, really bad at writing parsers. I still am really bad at writing parsers.<div id=\"note\">[ Rasmus Lerdorf ]</div>
 We have things like protected properties. We have abstract methods. We have all this stuff that your computer science teacher told you you should be using. I don't care about this crap at all.<div id=\"note\">[ Rasmus Lerdorf ]</div>
 There are people who actually like programming. I don't understand why they like programming.<div id=\"note\">[ Rasmus Lerdorf ]</div>
-I'm not a real programmer. I throw together things until it works then I move on. The real programmers will say "yeah it works but you're leaking memory everywhere. Perhaps we should fix that." I'll just restart apache every 10 requests.<div id=\"note\">[ Rasmus Lerdorf ]</div>
+I'm not a real programmer. I throw together things until it works then I move on. The real programmers will say \"yeah it works but you're leaking memory everywhere. Perhaps we should fix that.\" I'll just restart apache every 10 requests.<div id=\"note\">[ Rasmus Lerdorf ]</div>
 I do care about memory leaks but I still don't find programming enjoyable.<div id=\"note\">[ Rasmus Lerdorf ]</div>
 I don't know how to stop it, there was never any intent to write a programming language [...] I have absolutely no idea how to write a programming language, I just kept adding the next logical step on the way.<div id=\"note\">[ Rasmus Lerdorf ]</div>
 For all the folks getting excited about my quotes. Here is another - Yes, I am a terrible coder, but I am probably still better than you :)<div id=\"note\">[ Rasmus Lerdorf ]</div>";
