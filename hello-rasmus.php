@@ -3,7 +3,7 @@
 Plugin Name: Hello Rasmus
 Plugin URI: http://github.com/kanreisa/Hello-Rasmus
 Description: Adds rasmus quotes to your admin header (original: Hello HAL)
-Version: 1.1
+Version: 1.2
 Author: kanreisa
 Author URI: http://r2.ag/
 */
